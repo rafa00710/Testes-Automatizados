@@ -1,7 +1,7 @@
 package com.teste.automatizados.controller;
 
-import com.teste.automatizados.serveci.User;
-import com.teste.automatizados.serveci.UserService;
+import com.teste.automatizados.services.User;
+import com.teste.automatizados.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,4 +1,4 @@
-package com.teste.automatizados.serveci;
+package com.teste.automatizados.services;
 
 import org.springframework.stereotype.Service;
 

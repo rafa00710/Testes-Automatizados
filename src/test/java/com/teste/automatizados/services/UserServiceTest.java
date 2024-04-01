@@ -1,4 +1,4 @@
-package com.teste.automatizados.serveci;
+package com.teste.automatizados.services;
 
 import org.junit.jupiter.api.Test;
 

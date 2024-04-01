@@ -1,6 +1,6 @@
 package com.teste.automatizados;
 
-import com.teste.automatizados.serveci.User;
+import com.teste.automatizados.services.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
